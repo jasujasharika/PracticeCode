@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeroesVsVillain", "downloadPic\HeroesVsVillain.csproj", "{933783EC-AEDF-45AF-BAB7-B38CFAEAB939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVHelper", "HVHelper\HVHelper.csproj", "{FFCF0CC9-28FE-40F9-A12A-6E737778561A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933783EC-AEDF-45AF-BAB7-B38CFAEAB939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933783EC-AEDF-45AF-BAB7-B38CFAEAB939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933783EC-AEDF-45AF-BAB7-B38CFAEAB939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933783EC-AEDF-45AF-BAB7-B38CFAEAB939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCF0CC9-28FE-40F9-A12A-6E737778561A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCF0CC9-28FE-40F9-A12A-6E737778561A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCF0CC9-28FE-40F9-A12A-6E737778561A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCF0CC9-28FE-40F9-A12A-6E737778561A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5041098-6411-49B1-B168-885E20DB3B78}
+	EndGlobalSection
+EndGlobal
